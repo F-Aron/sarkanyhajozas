@@ -1,0 +1,77 @@
+* {
+	box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Verdana, sans-serif;
+	background-image: url('../kepek/viztukor.png');
+	max-width:1000px;
+	margin:0 auto;
+}
+
+.kepkeret .kep {
+	background-image: url('../kepek/hajoorr.jpg');
+	max-width: 350px;
+	height: 234px;
+	margin:0 auto;
+	
+}
+.kepkeret{
+	border: 3px solid #003c8c;
+	max-width:350px;
+	margin:0 auto;
+	background-color:white;
+	
+}
+.leiras{
+	background-image: url('../kepek/fatyol.png');
+	padding-bottom:45px;
+    margin-bottom: 40px;
+
+}
+
+.leiras h2{
+	color: indigo;
+	padding:20px 20px;
+	margin:0px 0px;
+	font-variant:small-caps;
+
+}
+.leiras h1{
+	color: indigo;
+	padding:40px 30px 10px 30px;
+	margin:40px 0px 10px 0px;
+	font-variant:small-caps;
+}
+
+.leiras p{
+	padding:0px 0px 0px 40px;
+	margin:16px 16px 16px 0px;
+	text-indent: 30px;
+	line-height: 22px;
+}
+
+
+.kepkeret .alairas p{
+	padding: 5px 3px 5px 8px;
+	font-family: Arial;
+	font-size:12px
+}
+
+a{
+	color:blue;
+}
+#felső{
+	padding:0px 0px 0px 80px;
+}
+#alsó{
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+	margin-top:0px;
+}
+
+
+
+
+
